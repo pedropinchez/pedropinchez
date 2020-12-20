@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am an android and web developer with some of my apps at playstore
+I am currently learning python programming and use of frameworks
 
 <!--
 **pedropinchez/pedropinchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
