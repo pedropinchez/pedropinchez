@@ -2,6 +2,9 @@
 I am an mobile app and web developer with some of my apps at playstore
 I am currently learning python programming and use of frameworks
 
+My playstore profile
+https://play.google.com/store/apps/dev?id=6736266020876230891
+
  🔭 I’m currently working on python programming. 
  
  🌱 I’m currently learning how to use frameworks like django and laraveel
