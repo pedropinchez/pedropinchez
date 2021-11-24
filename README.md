@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Peter Mbae,a mobile app and web developer</h1>
 <h3 align="center">A passionate developer from Kenya </h3>
-<p align="left"> <img src="https://play-lh.googleusercontent.com/gA1pnwTYC_yj7puQs6gl7JOCCCJVGI-ZgDSXgnDsBCGia7TdK1nOCUvEU8b5WMnGJIk=w144-h144-n-rw" alt="Peter Mbae" /> </p>
+<p align="center"> <img src="https://play-lh.googleusercontent.com/gA1pnwTYC_yj7puQs6gl7JOCCCJVGI-ZgDSXgnDsBCGia7TdK1nOCUvEU8b5WMnGJIk=w144-h144-n-rw" alt="Peter Mbae" /> </p>
 
 
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
