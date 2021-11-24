@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Peter Mbae,a mobile app and web developer</h1>
-<h3 align="center">A passionate developer from Kenya <img src="https://image.flaticon.com/icons/svg/630/630611.svg" width="14"/> </h3>
+<h3 align="center">A passionate developer from Kenya </h3>
 <p align="left"> <img src="https://play-lh.googleusercontent.com/gA1pnwTYC_yj7puQs6gl7JOCCCJVGI-ZgDSXgnDsBCGia7TdK1nOCUvEU8b5WMnGJIk=w144-h144-n-rw" alt="Peter Mbae" /> </p>
 
 
@@ -25,8 +25,8 @@
  #### ⭐  Statistics and Languages
 
  <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=MartinMbae&count_private=true&show_icons=true&theme=buefy" alt="petermbae" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinMbae&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="petermbae" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pedropinchez&count_private=true&show_icons=true&theme=buefy" alt="petermbae" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropinchez&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="petermbae" height="165" />
  </p>
 
 
