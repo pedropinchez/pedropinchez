@@ -7,6 +7,10 @@
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 😄 Pronouns: **Dev**
 - 📫 How to reach me:
+- ✔ Mobile developer with 4 applications at playstore (https://play.google.com/store/apps/dev?id=6736266020876230891)
+-   Currently working at Telkom Kenya
+-   Working as a part time full stack developer at softwaredevelopers.co.ke
+-  Linked profile www.linkedin.com/in/peter-machariah-001pm
 [![Twitter URL]https://twitter.com/pedrompinchez
 
 #### 💻 Stack I Work With
@@ -32,7 +36,7 @@
 
  📫 Email me at petermachariah2@gmail.com:
  
- 😄 Mobile contact +254726581039
+ � Mobile contact +254726581039
  
 
 <!--
