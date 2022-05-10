@@ -8,7 +8,7 @@
 - 😄 Pronouns: **Dev**
 - 📫 How to reach me: Petermachariah2@gmail.com
 - ✔ Mobile developer with 4 applications at playstore (https://play.google.com/store/apps/dev?id=6736266020876230891)
--   Currently working at Telkom Kenya
+-   Currently working at Soft Consult Limited
 -   Working as a part time full stack developer at softwaredevelopers.co.ke
 -  Linked profile www.linkedin.com/in/peter-machariah-001pm
 -  
