@@ -31,7 +31,7 @@
 
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/" alt="petermbae" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropinchez&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="petermbae" height="165" />
+    <img src="https://github-readme-stats.vercel.app/" alt="petermbae" height="165" />
  </p>
 
 
