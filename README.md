@@ -30,8 +30,8 @@
  #### ⭐  Statistics and Languages
 
  <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedropinchez;repo=learning" alt="petermbae" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?pedropinchez=pedropinchez;repo=learning" alt="petermbae" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedropinchez;repo=pedropinchez" alt="petermbae" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?pedropinchez=pedropinchez;repo=pedropinchez" alt="petermbae" height="165" />
  </p>
 
 
