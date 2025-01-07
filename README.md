@@ -1,18 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm Peter Mbae,a mobile app and web developer</h1>
+<h1 align="center">Hi 👋, I'm Peter Mbae,an Oracle fusion developer</h1>
 <h3 align="center">A passionate developer from Kenya </h3>
 <p align="center"> <img src="https://play-lh.googleusercontent.com/gA1pnwTYC_yj7puQs6gl7JOCCCJVGI-ZgDSXgnDsBCGia7TdK1nOCUvEU8b5WMnGJIk=w144-h144-n-rw" alt="Peter Mbae" /> </p>
 
 
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
+- 🌱 I’m currently learning Oracle VBCS)
 - 😄 Pronouns: **Dev**
 - 📫 How to reach me: Petermachariah2@gmail.com
 - ✔ Mobile developer with 4 applications at playstore (https://play.google.com/store/apps/dev?id=6736266020876230891)
--   Currently working at Soft Consult Limited
--   Working as a part time full stack developer at softwaredevelopers.co.ke
 -  Linked profile www.linkedin.com/in/peter-machariah-001pm
--  
-   [![Twitter URL]https://twitter.com/pedrompinchez
 
 #### 💻 Stack I Work With
 
